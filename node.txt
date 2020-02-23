@@ -1,1 +1,2 @@
-trojan://1234qwer@www.forzamilan.xyz:443＃GCP-HK
+
+https://sleepy-payne-805ad1.netlify.com
