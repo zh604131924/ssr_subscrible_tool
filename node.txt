@@ -1,15 +1,1 @@
-#GCP
-
-trojan://78d7860b@www.604131924.xyz:443#我的GCP1
-
-#GCP2
-
-trojan://0fbd5208@aaa.604131924.xyz:443#我的GCP2
-
-#张一的GCP
-
-trojan://2470d691@aaa.1575059770.xyz:443#张一GCP
-   
-#白嫖的GCP
-
-trojan://1234qwer@www.forzamilan.xyz:443#GCP-HK
+y
